@@ -13,7 +13,7 @@
 		<repository>
 			<name>BestSolution.at e(fx)clipse releases</name>
 			<id>efxclipse-releases</id>
-			<url>http://maven.bestsolution.at/efxclipse-releases/</url>
+			<url>https://maven.bestsolution.at/efxclipse-releases/</url>
 		</repository>
 	</repositories>
 
