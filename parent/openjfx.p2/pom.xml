@@ -70,11 +70,11 @@
 									<artifactId>openjfx.graphics.linux_64</artifactId>
 									<version>${project.version}</version>
 								</artifactItem>
-								<artifactItem>
+								<!-- artifactItem>
 									<groupId>at.bestsolution.openjfx</groupId>
 									<artifactId>openjfx.graphics.linux_aarch64</artifactId>
 									<version>${project.version}</version>
-								</artifactItem>
+								</artifactItem -->
 								<artifactItem>
 									<groupId>at.bestsolution.openjfx</groupId>
 									<artifactId>openjfx.graphics.mac</artifactId>
@@ -95,11 +95,11 @@
 									<artifactId>openjfx.media.linux_64</artifactId>
 									<version>${project.version}</version>
 								</artifactItem>
-								<artifactItem>
+								<!-- artifactItem>
 									<groupId>at.bestsolution.openjfx</groupId>
 									<artifactId>openjfx.media.linux_aarch64</artifactId>
 									<version>${project.version}</version>
-								</artifactItem>
+								</artifactItem -->
 								<artifactItem>
 									<groupId>at.bestsolution.openjfx</groupId>
 									<artifactId>openjfx.media.mac</artifactId>
@@ -130,11 +130,11 @@
 									<artifactId>openjfx.web.linux_64</artifactId>
 									<version>${project.version}</version>
 								</artifactItem>
-								<artifactItem>
+								<!-- artifactItem>
 									<groupId>at.bestsolution.openjfx</groupId>
 									<artifactId>openjfx.web.linux_aarch64</artifactId>
 									<version>${project.version}</version>
-								</artifactItem>
+								</artifactItem -->
 								<artifactItem>
 									<groupId>at.bestsolution.openjfx</groupId>
 									<artifactId>openjfx.web.mac</artifactId>
